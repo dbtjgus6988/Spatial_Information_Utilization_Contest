@@ -1,11 +1,11 @@
-# 공간정보활용공모전
+# 🗺️공간정보활용공모전
 합성곱 신경망(CNN)을 활용한 공간정보 데이터 기반 지형형상 분류 모델 개발
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
 
 <div style="display: flex;">
 <p align="center"><img width="270" alt="스크린샷 2024-02-21 오후 9 32 05" src="https://github.com/dbtjgus6988/-/assets/144633320/4ba1e961-e3cb-4a65-a47b-dbe54c96158c"></p>
 </div>
-We are trying to address inequality in education based on income. This is the GDSC Solution Challenge 2024 project, which uses Flutter to implement an app that enables low-income children to also receive high-quality art education. <br>
+‘표준지공시지가 공간정보’를 데이터로 사용하는 딥러닝을 통한 토지형상 예측 알고리즘을 개발 <br>
 <br>
 
 
