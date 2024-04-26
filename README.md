@@ -21,7 +21,7 @@
      
 ## 🖥️Model
 
-### Dataset
+### Dataset
 - 데이터: 2022년, 2021년, 2020년, 2019년, 2018년, 2016년 경기도 표준지공시지가공간정보
 - 출처: 국가공간정보포털(http://openapi.nsdi.go.kr/nsdi/eios/ServiceDetail.do)
 ∘ 데이터(X) : geometry (Shapely Polygon)
