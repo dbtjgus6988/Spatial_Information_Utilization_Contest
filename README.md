@@ -38,8 +38,7 @@
 ✅ [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) <br>
 ✅ [![GeoPandas](https://img.shields.io/badge/GeoPandas-43B02A?style=flat-square&logo=GeoPandas&logoColor=green
 )](https://geopandas.org/en/stable/getting_started/introduction.html) <br>
-✅ [![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=flat-square&logo=PyTorch&logoColor=green
-)](https://pytorch.org/)
+✅ [![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=PyTorch&logoColor=red)](https://pytorch.org/)
 
 <br>
 
