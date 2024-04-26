@@ -28,8 +28,9 @@
 <br>
 
 ## 💻Technology Stack
-✅ [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
-✅ [![GeoPandas](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=GeoPandas&logoColor=green)](https://geopandas.org/en/stable/getting_started/introduction.html)
+✅ [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) <br>
+✅ [![GeoPandas](https://img.shields.io/badge/GeoPandas-3776AB?style=flat-square&logo=GeoPandas&logoColor=green
+)](https://geopandas.org/en/stable/getting_started/introduction.html)
 
 
 <br>
