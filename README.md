@@ -35,10 +35,10 @@
 <br>
 
 ## 💻Technology Stack
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) <br>
-[![GeoPandas](https://img.shields.io/badge/GeoPandas-43B02A?style=flat-square&logo=GeoPandas&logoColor=green
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) <br>
+[![GeoPandas](https://img.shields.io/badge/GeoPandas-43B02A?style=for-the-badge&logo=GeoPandas&logoColor=green
 )](https://geopandas.org/en/stable/getting_started/introduction.html) <br>
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 <br>
 
@@ -49,7 +49,7 @@
 
 <br>
 
-## ❗️Future work
+## ❗️Future work
 이러한 공간정보화에서 우리의 지형형상 분석 모델은 보다 데이터를 효율적으로 분석하는 데 도움을 줄 수 있습니다. <br>
 1) 특히 토지특성조사 업무에 자동화 과정을 도입에 기여할 것으로 기대해 볼 수 있습니다.<br>
    - 직접 지형 형상을 조사하지 않아도 공간정보를 바탕으로 형상을 예측할 수 있습니다.<br>
