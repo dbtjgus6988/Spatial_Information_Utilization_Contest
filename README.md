@@ -3,7 +3,8 @@
 [![Flutter](https://img.shields.io/badge/Made%20with-Flutter-blue.svg)](https://flutter.dev/) 
 
 <div style="display: flex;">
-<p align="center"><img width="270" alt="스크린샷 2024-02-21 오후 9 32 05" src="https://github.com/dbtjgus6988/Grimee_frontend/assets/144633320/5740c28c-e05c-4425-9c70-8693874b4c4f"></p>
+![공간정보활용공모전](https://github.com/dbtjgus6988/-/assets/144633320/4ba1e961-e3cb-4a65-a47b-dbe54c96158c)
+
 </div>
 We are trying to address inequality in education based on income. This is the GDSC Solution Challenge 2024 project, which uses Flutter to implement an app that enables low-income children to also receive high-quality art education. <br>
 <br>
